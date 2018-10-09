@@ -74,7 +74,7 @@ namespace studycmd
                 }
             }
 
-            Console.WriteLine("ok");
+            Console.WriteLine("ok1");
 
 
         }
