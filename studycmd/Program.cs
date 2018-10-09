@@ -73,8 +73,8 @@ namespace studycmd
                     column += colval;
                 }
             }
-            
 
+            Console.WriteLine("ok");
 
 
         }
